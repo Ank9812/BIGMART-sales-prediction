@@ -29,3 +29,14 @@ Over here, we will take our time to look into the various features that we have 
 perform a lot of feature engineering to get our data ready for further analysis and building our model.
 
 **Check out the jupyter notebook for full ananlysis**
+
+`item weight and item outlet sales analysis`
+![Screen Shot 2023-04-29 at 3 26 43 pm](https://user-images.githubusercontent.com/48951896/235285299-d1ee5dd0-6117-49be-894e-ec5efaa68a16.png)
+
+
+
+`Impact of Item_Fat_Content on Item_Outlet_Sales`
+![Screen Shot 2023-04-29 at 3 28 39 pm](https://user-images.githubusercontent.com/48951896/235285355-18ace68d-82bb-4d06-8234-9c7a3ced7e7e.png)
+
+`Impact of Outlet_Type on Item_Outlet_Sales`
+![Screen Shot 2023-04-29 at 3 29 21 pm](https://user-images.githubusercontent.com/48951896/235285382-e2485429-79be-4925-a129-4cc3f6bfb1c3.png)
