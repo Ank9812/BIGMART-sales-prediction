@@ -28,3 +28,4 @@ Over here, we will take our time to look into the various features that we have 
 
 perform a lot of feature engineering to get our data ready for further analysis and building our model.
 
+**Check out the jupyter notebook for full ananlysis**
